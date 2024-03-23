@@ -3,4 +3,4 @@ matplotlib
 missingno
 seaborn
 leven
-sklearn
+scikit-learn
